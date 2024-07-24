@@ -1,6 +1,6 @@
 # REVERSE POLISH NOTATION CALCULATOR
 HOW TO USE:
-Unlike with a traditional calculator, you enter the parameters first, than the operator.
+Unlike with a traditional calculator, you enter the parameters first, then the operator.
 
 For example, to calculate '20+50': type '20' -> Press Enter -> '50' -> Press '+'
 
